@@ -1,18 +1,13 @@
-
-@media screen and (max-width: 390px) {   
-    .navbar {
-        flex-direction: column;}
-}
-
-@media screen and (max-width: 390px) {  
-.form-inline, .btn {
-    margin: 10px;
-    justify-content: center;
-}
+@media screen and (max-width: 390px) {
+  .navbar {
+    flex-direction: column;
+  }
 }
 
 @media screen and (max-width: 390px) {
-    .img__direita {
-        d-none
-    }
+  .form-inline,
+  .btn {
+    margin: 10px;
+    justify-content: center;
+  }
 }
