@@ -11,9 +11,3 @@
 }
 }
 
-.media {
-    flex-wrap: wrap;
-    display: flex;
-    justify-content: space-evenly;
-    margin: 60px;
-}
