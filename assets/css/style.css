@@ -11,3 +11,8 @@
 }
 }
 
+@media screen and (max-width: 390px) {
+    .img__direita {
+        d-none
+    }
+}
