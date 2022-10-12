@@ -4,8 +4,7 @@ Landing page Art.
 # Descrição: 
 Desenvolver uma aplicação web com HTML e CSS utilizando bootstrap melhorando a experiência do úsuario.
 
-![127 0 0 1_5500_index html(iPhone 12 Pro) (6)](https://user-images.githubusercontent.com/97606816/193575090-10389c06-1b74-4e62-ac65-d6efa39bda5c.png)
-
+![Captura da Web_11-10-2022_22183_127 0 0 1](https://user-images.githubusercontent.com/97606816/195226978-0524bb4c-0104-4596-9374-71f6ce843c43.jpeg)
 
 # Técnologias:
 
